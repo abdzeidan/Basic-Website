@@ -1,4 +1,4 @@
-# midterm_webapplication
+# midterm
 
 ## Project setup
 ```
